@@ -56,3 +56,5 @@ https://docs.python.org/3/library/
 https://realpython.com/
 https://vlegalwaymayo.atu.ie/course/view.php?id=10452
 https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.polyfit.html
+https://en.wikipedia.org/wiki/Coefficient_of_determination
+https://en.wikipedia.org/wiki/Simple_linear_regression#Formulation_and_computation
