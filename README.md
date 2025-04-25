@@ -1,8 +1,8 @@
 # Pinciples of Data Analytics
 
-by Justyna Pinkowska
+# by Justyna Pinkowska
 
-## Setup
+
 
 1. Sign up for a free GitHub account
 2. Go to repository page in your browser
