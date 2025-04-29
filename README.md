@@ -19,7 +19,7 @@ by Justyna Pinkowska
 - Jupyter
 
 ## Overview
-This project analyzes the classic Iris dataset using Python. The goal is to perform data analysis of three species of Iris: Setosa, Versicolor, Virginica based on their sepal and petal measurements in cm. Visualise features and correlations between them.
+This project analyzes the classic Iris dataset using Python. The goal is to perform data analysis of three flower species of Iris: Setosa, Versicolor, Virginica. By examining their sepal and petal measurements (in centimeters), I visualise key features and correlations between them.
 
 ## Dataset
 **Name:** Iris Dataset
@@ -29,7 +29,12 @@ This project analyzes the classic Iris dataset using Python. The goal is to perf
 **Description:** The Iris dataset contains measurements for 150 Iris flowers from three different species: Setosa, Versicolor, and Virginica. The dataset includes four features: petal length, petal width, sepal length and sepal width.
 
 ## Project structure
-1. Analysis of dataset - tasks.ipynb
+1. Analysis of dataset - tasks.ipynb This Jupyter Notebook contains the Python code used to perform the analysis:
+- Loadig and inspecting the Iris dataset.
+- Visualisation of the distribution of the features (sepal lenght, sepal width, petal lenght and    
+  petal width)
+- Exploring the relationships and correlations between different features ussing scatter plots, 
+  regression lines plotting, heatmaps and boxplots.
 2. README.md
 3. instructions.md
 4. .gitgnore
@@ -58,3 +63,4 @@ https://vlegalwaymayo.atu.ie/course/view.php?id=10452
 https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.polyfit.html
 https://en.wikipedia.org/wiki/Coefficient_of_determination
 https://en.wikipedia.org/wiki/Simple_linear_regression#Formulation_and_computation
+https://www.geeksforgeeks.org/exploratory-data-analysis-on-iris-dataset/
