@@ -1,8 +1,8 @@
 # Pinciples of Data Analytics
 
-by Justyna Pinkowska
+# by Justyna Pinkowska
 
-## Setup
+
 
 1. Sign up for a free GitHub account
 2. Go to repository page in your browser
@@ -63,4 +63,3 @@ https://vlegalwaymayo.atu.ie/course/view.php?id=10452
 https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.polyfit.html
 https://en.wikipedia.org/wiki/Coefficient_of_determination
 https://en.wikipedia.org/wiki/Simple_linear_regression#Formulation_and_computation
-https://www.geeksforgeeks.org/exploratory-data-analysis-on-iris-dataset/
